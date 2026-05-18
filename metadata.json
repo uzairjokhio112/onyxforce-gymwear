@@ -1,0 +1,6 @@
+{
+  "name": "Onyx Force Gymwear",
+  "description": "High-performance, technical gym wear designed for the elite athlete. Engineered for strength, crafted for style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
